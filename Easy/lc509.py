@@ -1,0 +1,15 @@
+# Fibonacci Number
+class Solution(object):
+    def fib(self, n):
+        if n==0:
+            return 0
+        elif n==1:
+            return 1
+        a, b = 0, 1
+        for _ in range(2, n + 1):
+            a, b = b, a + b
+        return b
+s=Solution()
+print(s.fib(2))  # Output: 1
+print(s.fib(3))  # Output: 2
+print(s.fib(4))  # Output: 3
