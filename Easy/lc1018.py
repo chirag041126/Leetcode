@@ -15,7 +15,7 @@ class Solution(object):
                 out.append(False)
         return out
 s=Solution()
-print(s.prefixesDivBy5([0,1,1]))          # Output: [True, False, False]
-print(s.prefixesDivBy5([1,1,1]))          # Output: [False, False, False]
+print(s.prefixesDivBy5([0,1,1]))    # Output: [True, False, False]
+print(s.prefixesDivBy5([1,1,1]))    # Output: [False, False, False]
                             
 
