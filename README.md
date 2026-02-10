@@ -50,6 +50,13 @@ Each file contains:
 
 ---
 
+## 🎯 Goal
+
+- Strengthen problem-solving skills
+- Prepare for coding interviews
+- Master Data Structures & Algorithms
+- Track daily consistency
+
 ## 🧩 Learning Focus
 
 This repository mainly focuses on:
@@ -75,6 +82,9 @@ This repository mainly focuses on:
 
 ## ✍️ Author
 **Chirag Solanki**
+
+Github:
+https://github.com/chirag041126/Leetcode.git
 
 ---
 
