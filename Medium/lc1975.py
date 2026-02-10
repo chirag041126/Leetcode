@@ -19,6 +19,6 @@ class Solution(object):
         else:
             return sum1-(2 * min_val)
 s=Solution()
-print(s.maxMatrixSum([[1, -1, 1], [-1, -1, -1], [1, -1, 1]]))  # Output: 8  
-print(s.maxMatrixSum([[5, -7, 3], [-4, -2, 6], [8, -1, -9]]))  # Output: 40
+print(s.maxMatrixSum([[1, -1, 1], [-1, -1, -1], [1, -1, 1]])) #output:7
+print(s.maxMatrixSum([[5, -7, 3], [-4, -2, 6], [8, -1, -9]]))  #output:43
         
